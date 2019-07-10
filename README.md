@@ -1,7 +1,4 @@
-# 
-3
- TurboFuture»Computers»Software & Operating Systems
-Connect to SQL Server From R
+# Connect to SQL Server From R
 
 wi will just demonstrate how to connect to SQL Server from R and execute a simple query.
 
