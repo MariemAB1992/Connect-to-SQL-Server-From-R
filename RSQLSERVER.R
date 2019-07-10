@@ -10,3 +10,5 @@ con <- dbConnect(odbc::odbc(),
                  PWD       = "Password for the user to connect",
                  Port      = 1433)
                  
+#query
+ex<-dbGetQuery(con,paste("your query here ;"))
